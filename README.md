@@ -1,8 +1,8 @@
 ## Hi, I'm Edu
 
 - Student at Anhembi Morumbi - Mooca São Paulo.
-- Live in São Paulo, Brazil.
-- Hobbies: Videos games (Ghost of Tsushima, Assassins Creed and other stuff), books about computer science, 
+- Interests: Software development, Linux, computer science books and learning.
+- Hobbies: Videos games, music, politics and cats.
 
 Studying Computer Science, looking for an internship in the IT area. I seek to learn and improve my knowledge.
 <br>
