@@ -1,12 +1,13 @@
-## Hi, I'm Edu
+## Hi, I'm Edu.
 
-- Student at Anhembi Morumbi - Mooca São Paulo.
-- Interests: Software development, Linux, computer science books and learning.
-- Hobbies: Videos games, music, politics and cats.
+- Tenho 20 anos, moro em Lapa, São Paulo.
+- Estudante na Anhembi Morumbi - Mooca São Paulo.
+- Interesses: Desenvolvimento de software, Linux, livros de ciência da computação e aprendizado.
+- Hobbies: Videogames, música, política e gatos.
 
-Studying Computer Science, looking for an internship in the IT area. I seek to learn and improve my knowledge.
+Cursando Ciência da Computação, buscando estágio na área de TI. Busco aprender e aprimorar meus conhecimentos.
 <br>
-I'm focusing my studies (on my own, outside of college subjects) on Back-end development and software testing.
+Estou focando meus estudos (por conta própria, fora das disciplinas da faculdade) em desenvolvimento de back-end e teste de software.
 <!---
 barelyhere-edu/barelyhere-edu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
