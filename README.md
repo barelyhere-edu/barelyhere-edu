@@ -2,7 +2,7 @@
 
 - Tenho 20 anos, moro em Lapa, São Paulo.
 - Estudante na Anhembi Morumbi - Mooca São Paulo.
-- Interesses: Desenvolvimento de software, Linux, livros de ciência da computação e aprendizado.
+- Interesses: Desenvolvimento de software, Linux, livros de ciência da computação e aprender.
 - Hobbies: Videogames, música, política e gatos.
 
 Cursando Ciência da Computação, buscando estágio na área de TI. Busco aprender e aprimorar meus conhecimentos.
