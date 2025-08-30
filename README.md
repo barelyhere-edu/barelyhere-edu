@@ -1,7 +1,6 @@
 ## Hi, I'm Edu.
 
-- Tenho 20 anos, moro em Lapa, São Paulo.
-- Estudante na Anhembi Morumbi - Mooca São Paulo.
+- Tenho 20 anos, estudo ciências da computação na Anhembi Morumbi - Mooca São Paulo.
 - Interesses: Desenvolvimento de software, Linux, livros de ciência da computação e aprender.
 - Hobbies: Videogames, música, política e gatos.
 
