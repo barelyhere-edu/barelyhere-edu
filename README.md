@@ -22,7 +22,6 @@ I enjoy learning new technologies and building small projects to practice coding
 - Strengthen my algorith and problem-solving skills  
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in/edu-capelas/]  
 - Email: [edu.capelas@gmail.com]
 
 
