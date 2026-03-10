@@ -22,7 +22,8 @@ I enjoy learning new technologies and building small projects to practice coding
 - Strengthen my algorith and problem-solving skills  
 
 ## Contact
-- Email: [edu.capelas@gmail.com]
+- Email: edu.capelas@gmail.com
+- Work phone: +55 (11) 91660-8241
 
 
 <!---
